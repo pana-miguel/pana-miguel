@@ -17,5 +17,22 @@
 
 ## 📚 Lo que estoy aprendiendo
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png" alt="Data Science" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" /
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/8649/8649635.png" alt="Data Science" width="50" />
+      <br/>
+      <sub>Ciencia de datos</sub>
+    </td>
+    <td align="center" style="padding-left: 20px; padding-right: 20px;">
+      <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="80" />
+      <br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3037/3037943.png" alt="Big Data" width="50" />
+      <br/>
+      <sub>Big data</sub>
+    </td>
+  </tr>
+</table>
